@@ -1,1 +1,3 @@
 theme: jekyll-theme-minimal
+title: Quick Start Guide for ownCloud Server
+description: You can download and install ownCloud on your own Linux server, try some prefab cloud or virtual machine images, or sign up for hosted ownCloud services. In this guide we outline how to install ownCloud from the command line.
