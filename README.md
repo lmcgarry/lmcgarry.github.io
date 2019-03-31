@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 Table of Contents
 =================
 
