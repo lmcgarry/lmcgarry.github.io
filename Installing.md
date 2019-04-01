@@ -12,7 +12,9 @@ ownCloud can be installed from the command line as outlined below:
 
 4. Configure your web server user to be the owner of your unpacked directory as shown in the following example:
 
-`$ sudo chown -R www-data:www-data /var/www/owncloud/`
+```
+$ sudo chown -R www-data:www-data /var/www/owncloud/
+```
 
 5. As your [HTTP](https://doc.owncloud.org/server/10.1/admin_manual/installation/manual_installation.html#set-strong-directory-permissions) user, use the `occ` command to perform the installation (example assumes the source was unpacked to `/var/www/owncloud`). 
 
