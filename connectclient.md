@@ -2,7 +2,7 @@
 
 To connect to an ownCloud server, follow these steps:
 1. Open your Web browser.
-2. Enter the location of your ownClould server, ensuring you specify 8080 as the port number. For example, https://192.22.22.22:8080/.
+2. Enter the location of your ownClould server, ensuring you specify 8080 as the port number. For example, https://*ServerIPaddress*:8080/, where *ServerIPaddress* should be replaced by your ownCloud server's IP address.
 3. Specify your username and password. The ownCloud server administrator should have provided your initial password. You can change your password once connected. The main user interface is displayed. 
 ![Image](files_page.png)
 
