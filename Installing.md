@@ -33,3 +33,4 @@ To configure your ownCloud Server, follow these steps:
 1. Check the [SELinux configuration](https://doc.owncloud.org/server/10.1/admin_manual/installation/selinux_configuration.html) and modify your SELinux configuration as required.
 2. Configure your PHP settings if required. It is recommended to use the default settings. See section on [php.ini](https://doc.owncloud.org/server/10.1/admin_manual/installation/configuration_notes_and_tips.html) for more details.
 3. Check your PHP-FPM settings. See section on [PHP-FPM](https://doc.owncloud.org/server/10.1/admin_manual/installation/configuration_notes_and_tips.html) for more details.
+4. Ensure you configure your ownClould web server to listen on port 8080.
